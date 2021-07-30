@@ -137,6 +137,9 @@ input{
 @media(max-width:450px){
     p{
         font-size: 15px;
+        width: 90%;
+        position: absolute;
+        left: 5%;
     }
     #contain{
         width:60%;
@@ -144,15 +147,16 @@ input{
         font-size: 15px;
     }
     select{
-        left: 20px;
+        left: 5px;
         top: 50%;
     }
     input{
-        right: 20px;
+        right: 30px;
+        width: 100px;
     }
     .fest{
         top: 40%;
-        left: 30px;
+        left: 10px;
     }
     .sec{
         top: 40%;
